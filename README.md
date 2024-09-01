@@ -1,1 +1,1 @@
-#This is a clone website of amazon.com with using HTML & CSS.
+# This is a clone website of amazon.com with using HTML & CSS.
